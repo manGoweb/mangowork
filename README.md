@@ -1,5 +1,7 @@
 manGoWork - simplest time tracker
 ===========================
+Trackuju si práci na projektech a papír byl moc oldschool. Takže jsem za hodinu zpíchnul tohle, né že někoho napadne to přepsat do nette! :P
+
 ![screenshot](http://take.ms/ykRXV)
 
 
