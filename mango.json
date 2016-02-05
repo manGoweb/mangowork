@@ -1,0 +1,25 @@
+{
+	"src_folder": "theme",
+	"dist_folder": "assets",
+
+	"styles": [
+		"theme/styles/screen.styl"
+	],
+	"scripts": [
+		"theme/scripts/index.js"
+	],
+	"images": [
+		"theme/images/**/*.{jpg,png,svg,ico}"
+	],
+	"static": [
+		"theme/placeholders/**", "theme/images/**/*.svg", "theme/static/**/*", "theme/icons/**/*"
+	],
+	"watch": [
+    "**/*.php",
+		"*.php"
+	],
+	"browsersync": {
+		"open" : false
+	},
+  "snippet" : "yes please"
+}
