@@ -1,10 +1,7 @@
 manGoWork - simplest time tracker
 ===========================
-http://take.ms/yhwkH
+![screenshot](http://take.ms/ykRXV)
 
-Do you have `mango-cli` installed globally?
-
-If not: `npm install -g mango-cli`
 
 To-do
 ===========================
